@@ -1,0 +1,84 @@
+
+.jumbotron {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  padding-top: 90px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-image: url('images/home.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: white;
+  margin-bottom: 3em;
+}
+
+
+blockquote {font-family: 'Comic Sans MS', cursive, sans-serif;
+font-size:small;
+  border-left: 0;
+}
+
+.extra-small {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-size: small;
+}
+
+#mission {
+  font-family:'Comic Sans MS', cursive, sans-serif;
+    background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  padding-bottom: 50px;
+}
+.jumbotron .form-group {font-family: 'Comic Sans MS', cursive, sans-serif;
+  line-height: 0.5em;
+}
+
+.jumbotron label {font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: white;
+}
+.jumbotron img {
+
+  margin-top: 20px;
+}
+h2 {font-family: 'Comic Sans MS', cursive, sans-serif;
+
+  margin-bottom: 1.5em;
+}
+
+.navbar-inverse {font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: rgba(32, 35, 41,0.8)
+  ;
+}
+
+.form-inline input[name='email']
+{font-family: 'Comic Sans MS', cursive, sans-serif;
+
+  width: 80%;
+}
+#social-buttons {font-family: 'Comic Sans MS', cursive, sans-serif;
+  margin-top: 50px;
+}
+
+.btn-twitter {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
